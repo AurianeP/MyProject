@@ -1,0 +1,1 @@
+Test of creating a subdirectory in a repository in GitHub
