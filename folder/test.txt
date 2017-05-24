@@ -1,1 +1,6 @@
 Test of creating a subdirectory in a repository in GitHub
+
+Now i test a new branch created in Git (desktop)
+Push it where ?
+
+Push it to remote (in GitGui) with default settings --> creates the branch in GitHub donc ok
