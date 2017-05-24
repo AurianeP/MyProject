@@ -1,1 +1,4 @@
 Test of creating a subdirectory in a repository in GitHub
+
+Now i test a new branch created in Git (desktop)
+Push it where ?
